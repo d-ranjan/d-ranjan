@@ -3,8 +3,8 @@
  ### Electronics and Commn Engineer
  ### Self-taught Web, Desktop & Andoroid Developer 
 
-- 🔭 I’m currently working on a Android App
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on a Qt/C++ Desktop App
+- 🌱 I’m currently learning Qt/C++
 - 💬 Ask me about anything related to CPP/Qt/AutoIt/Javascript 
 **Or**
 - EDC,Digital Electronics & Analog & Digital Commn
