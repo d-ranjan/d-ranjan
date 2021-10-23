@@ -1,13 +1,13 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm D.Ranjan
- ### Electronics and Commn Engineer
+ ### Electronics and Communication Engineer
  ### Self-taught Web, Desktop & Andoroid Developer 
 
 - 🔭 I’m currently working on a Qt/C++ Desktop App
 - 🌱 I’m currently learning Qt/C++
 - 💬 Ask me about anything related to CPP/Qt/AutoIt/Javascript 
 **Or**
-- EDC,Digital Electronics & Analog & Digital Commn
+      EDC,Digital Electronics, Analog & Digital Communication, SDR
 
 
 **Languages and Tools:** 
